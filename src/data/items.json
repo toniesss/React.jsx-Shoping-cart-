@@ -1,0 +1,20 @@
+[
+    {
+      "id": 1,
+      "name": "Msi-Akrales",
+      "price": 49200,
+      "imgUrl": "/imgs/Msi-akrales.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Msi-GF63-Thin",
+      "price": 29300,
+      "imgUrl": "/imgs/Msi-GF63-Thin.webp"
+    },
+    {
+      "id": 3,
+      "name": "Msi-Overboost",
+      "price": 89500,
+      "imgUrl": "/imgs/Msi-overboost.jpg"
+    }
+  ]
